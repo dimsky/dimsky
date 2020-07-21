@@ -1,2 +1,2 @@
 # dimsky
-[Test Image](https://github.com/dimsky/dimsky/image1.jepg)
+[Test Image](https://github.com/dimsky/dimsky/blob/master/image1.jpeg)
