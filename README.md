@@ -1,2 +1,1 @@
-# dimsky
-[Test Image](https://github.com/dimsky/dimsky/blob/master/image1.jpeg)
+![image](https://github.com/dimsky/dimsky/blob/master/image1.jpeg)
